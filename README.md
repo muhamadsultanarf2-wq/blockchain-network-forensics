@@ -33,3 +33,19 @@ Tugas ini bertujuan untuk mengimplementasikan sistem blockchain sederhana untuk 
 ---
 
 ## 📁 Struktur Repository
+📁 23040700004_Muhammad Sultan Arif/
+├── 📁 evidence/
+│ ├── PCAP01_23040700004.pcapng (30 paket)
+│ ├── PCAP02_23040700004.pcapng (50 paket)
+│ ├── PCAP03_23040700004.pcapng (70 paket)
+│ ├── PCAP04_23040700004.pcapng (90 paket)
+│ └── PCAP05_23040700004.pcapng (100 paket)
+├── 📁 sourcecode/
+│ └── blockchainpcap.py
+├── 📁 screenshot/
+│ ├── hashingresult.png
+│ ├── blockchainresult.png
+│ └── validation_result.png
+├── 📁 report/
+│ └── laporan.pdf
+└── README.md
